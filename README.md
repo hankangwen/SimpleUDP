@@ -9,12 +9,12 @@ I developed this project myself, starting without knowledge of C# and how the ne
 ### The project at this stage is already suitable for use in small commercial applications and games.
  - I don't plan to make any major changes to the functionality in the future, mostly bug fixes and performance improvements.
 
-### Where it can be used.
+### Where it can be used.[Documentation.md](Documentation.md)
  - It's up to you to decide, it's a fairly small library that may be suitable for small projects.
  - I don't try to be better than existing similar off-the-shelf solutions, because I do it to learn.
 
 Documentation: [here](https://github.com/StrumDev/SimpleUDP/blob/main/Documentation.md)
-
+[Documentation.md](Documentation.md)
 [![Made in Ukraine](https://img.shields.io/badge/made_in-ukraine-ffd700.svg?labelColor=0057b7)](https://stand-with-ukraine.pp.ua)
 
 * Only UDP.
